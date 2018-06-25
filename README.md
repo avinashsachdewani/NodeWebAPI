@@ -10,7 +10,8 @@ This project use all enterprise level practice and patterns.
 To run the project 
 
 # Get the latest snapshot
-git clone --depth=1 git@github.com:avinashsachdewani/NodeAPI.git NodeWebAPI
+git clone --depth=1 https://github.com/avinashsachdewani/NodeWebAPI.git NodeWebAPI
+
 #Download project dependencies
 npm install
 
