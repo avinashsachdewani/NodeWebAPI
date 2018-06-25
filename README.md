@@ -12,7 +12,7 @@ To run the project
 # Get the latest snapshot
 git clone --depth=1 https://github.com/avinashsachdewani/NodeWebAPI.git NodeWebAPI
 
-#Download project dependencies
+# Download project dependencies
 npm install
 
 # start your app
